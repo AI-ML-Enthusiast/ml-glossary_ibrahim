@@ -1,11 +1,9 @@
 # Machine Learning Glossary
 
-## Looking for fellow maintainers!
-Apologies for my non-responsiveness. :( I've been heads down at Cruise, buiding ML infra for self-driving cars, and haven't reviewed this repo in forever. Looks like we're getting `54k monthly active users` now and I think the repo deserves more attention. Let me know if you would be interested in joining as a maintainer with priviledges to merge PRs. 
 
 [View The Glossary](http://ml-cheatsheet.readthedocs.io/en/latest/)
 
-## How To Contribute
+## How it works
 
 1. Clone Repo
 ```
